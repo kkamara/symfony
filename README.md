@@ -1,5 +1,3 @@
-![ecommerce.gif](https://raw.githubusercontent.com/kkamara/ecommerce/develop/public/ecommerce.gif)
-
 # symfony
 
 Symfony with Docker support. 
